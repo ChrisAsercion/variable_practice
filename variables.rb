@@ -6,3 +6,5 @@ Future = 2053
 Past = 1973
 Money = 2500.25
 Debt = 375.45
+Paid = true
+Owe = false
