@@ -8,3 +8,6 @@ Money = 2500.25
 Debt = 375.45
 Paid = true
 Owe = false
+Name = "King_of_day"
+Friend = "Mac"
+puts [this, is, very, confusing]
